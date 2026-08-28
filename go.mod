@@ -2,7 +2,7 @@ module github.com/rclone/rclone
 
 go 1.26.0
 
-replace github.com/rclone/Proton-API-Bridge => github.com/oss-singularity/Proton-API-Bridge v1.0.6-0.20260827171532-a38695820cd0
+replace github.com/rclone/Proton-API-Bridge => github.com/oss-singularity/Proton-API-Bridge v1.0.6-0.20260828071615-c059d7573afb
 
 godebug x509negativeserial=1
 
